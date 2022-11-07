@@ -1,4 +1,7 @@
 # WebberApp
 WebberApp first beta
 
-This is for WebberApp, a personal project I am working on. 
+This is for WebberApp, a personal project by chwa982.
+
+WebberApp is designed to 
+
